@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1673436870 source:c:\users\hp\onedrive\documents\sys prog\tp1\essay_tp\bibliotp.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<string.h>
+	"MachAbs.h"
+
+1672349848 c:\users\hp\onedrive\documents\sys prog\tp1\essay_tp\machabs.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1672340467 source:c:\users\hp\onedrive\documents\sys prog\tp1\essay_tp\machabs.c
+	<stdio.h>
+	<stdlib.h>
+	"MachAbs.h"
+
+1673436888 source:c:\users\hp\onedrive\documents\sys prog\tp1\essay_tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<stdbool.h>
+	<string.h>
+	"BiblioTP.h"
+	"TOFbiblio.h"
+
+1673437517 c:\users\hp\onedrive\documents\sys prog\tp1\essay_tp\bibliotp.h
+	<stdio.h>
+	<stdlib.h>
+	"MachAbs.h"
+
+1672528174 c:\users\hp\onedrive\documents\sys prog\tp1\essay_tp\tofbiblio.h
+	<stdio.h>
+	<stdlib.h>
+	"MachAbs.h"
+
+1672528435 source:c:\users\hp\onedrive\documents\sys prog\tp1\essay_tp\tofbiblio.c
+	<stdio.h>
+	<stdlib.h>
+	"TOFbiblio.h"
+

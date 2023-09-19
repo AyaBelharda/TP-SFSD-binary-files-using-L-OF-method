@@ -1,0 +1,128 @@
+# depslib dependency file v1.0
+1670931765 source:c:\users\hp\onedrive\documents\sys prog\essay_tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+
+1673348553 source:c:\users\hp\onedrive\documents\sys prog\tp1\essay_tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<stdbool.h>
+	<string.h>
+	"BiblioTP.h"
+	"TOFbiblio.h"
+
+1672328055 source:c:\users\hp\onedrive\documents\sys prog\tp1\essay_tp\needit!.c
+
+1671525233 c:\users\hp\onedrive\documents\sys prog\tp1\essay_tp\bibliotheque_tof.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"BIBLIOTHEQUE_TOF.h"
+
+1671497356 c:\users\hp\onedrive\documents\sys prog\tp1\essay_tp\bibliotheque_tof.h
+	<string.h>
+	<stdio.h>
+	<stdbool.h>
+
+1672394575 c:\users\hp\onedrive\documents\sys prog\tp1\essay_tp\conio2.h
+	<conio.h>
+	<windows.h>
+
+1671494783 c:\users\hp\onedrive\documents\sys prog\tp1\essay_tp\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1671496085 c:\users\hp\onedrive\documents\sys prog\tp1\essay_tp\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<stdarg.h>
+	"conio2.h"
+	<dirent.h>
+
+1672340467 source:c:\users\hp\onedrive\documents\sys prog\tp1\essay_tp\machabs.c
+	<stdio.h>
+	<stdlib.h>
+	"MachAbs.h"
+
+1672349848 c:\users\hp\onedrive\documents\sys prog\tp1\essay_tp\machabs.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1673436870 source:c:\users\hp\onedrive\documents\sys prog\tp1\essay_tp\bibliotp.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<string.h>
+	"MachAbs.h"
+
+1672393582 c:\users\hp\onedrive\documents\sys prog\tp1\essay_tp\bibliotp.h
+	<stdio.h>
+	<stdlib.h>
+	"MachAbs.h"
+
+1672423684 source:c:\users\hp\onedrive\documents\sys prog\tp1\essay_tp\ihm.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"BiblioTP.h"
+	"MachAbs.h"
+	"conio2.h"
+
+1672392245 c:\users\hp\onedrive\documents\sys prog\tp1\essay_tp\bibliotp.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<string.h>
+	"MachAbs.h"
+
+1672395057 c:\users\hp\onedrive\documents\sys prog\tp1\essay_tp\ihm.h
+	<stdbool.h>
+	"BiblioTP.h"
+
+1672394796 c:\users\hp\onedrive\documents\sys prog\tp1\essay_tp\ihm.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"BiblioTP.h"
+	"MachAbs.h"
+	"conio2.h"
+
+1672394527 source:c:\users\hp\onedrive\documents\sys prog\tp1\essay_tp\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1672475601 c:\users\hp\onedrive\documents\sys prog\tp1\essay_tp\tofbiblio.c
+	<stdio.h>
+	<stdlib.h>
+
+1672528435 source:c:\users\hp\onedrive\documents\sys prog\tp1\essay_tp\tofbiblio.c
+	<stdio.h>
+	<stdlib.h>
+	"TOFbiblio.h"
+
+1672528174 c:\users\hp\onedrive\documents\sys prog\tp1\essay_tp\tofbiblio.h
+	<stdio.h>
+	<stdlib.h>
+	"MachAbs.h"
+

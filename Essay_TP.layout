@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="MachAbs.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="607" topLine="95" />
+		</Cursor>
+	</File>
+	<File name="TOFbiblio.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1171" topLine="16" />
+		</Cursor>
+	</File>
+	<File name="MachAbs.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="41" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="TOFbiblio.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2045" topLine="78" />
+		</Cursor>
+	</File>
+	<File name="BiblioTP.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="44" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.c" open="1" top="1" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2136" topLine="59" />
+		</Cursor>
+	</File>
+	<File name="BiblioTP.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="53110" topLine="600" />
+		</Cursor>
+		<Folding>
+			<Collapse line="562" />
+			<Collapse line="639" />
+			<Collapse line="1139" />
+			<Collapse line="1228" />
+			<Collapse line="1256" />
+			<Collapse line="1313" />
+			<Collapse line="1350" />
+			<Collapse line="1414" />
+			<Collapse line="1456" />
+			<Collapse line="1497" />
+			<Collapse line="1521" />
+			<Collapse line="1609" />
+			<Collapse line="1628" />
+			<Collapse line="1719" />
+			<Collapse line="1764" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>
